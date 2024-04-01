@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Latest Project: consignar.pt
+👷 Latest Project: consignar.pt
 
-## Skills
+## Skills 👨‍💻
 
 1. Go Lang
 2. JS/TS
@@ -14,4 +14,4 @@ Latest Project: consignar.pt
 8. Cloud Computing (GCP, Azure)
 9. REST APIs
 10. gRPC
-11. (...) Check my linkedin profile: [Linkedin](www.linkedin.com/in/martimmourao)
+11. (...) Check my Linkedin profile: [Linkedin](www.linkedin.com/in/martimmourao)
