@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-👷 Latest Project: consignar.pt
+👷 Latest Projects: 
+
+1. consignar.pt
+2. consignar.pt Infrastructure with Terraform
 
 ## Skills 👨‍💻
 
