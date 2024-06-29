@@ -4,6 +4,7 @@
 
 1. consignar.pt
 2. consignar.pt Infrastructure with Terraform
+3. Discord Bot to Scrape Lunch Menu (used GCP Infra)
 
 ## Skills 👨‍💻
 
