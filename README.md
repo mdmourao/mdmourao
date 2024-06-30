@@ -20,4 +20,4 @@
 10. gRPC
 11. (...) Check my Linkedin profile: [Linkedin](www.linkedin.com/in/martimmourao)
 
-[![Martim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmourao)]
+![Martim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmourao)
