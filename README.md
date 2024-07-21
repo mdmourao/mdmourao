@@ -18,7 +18,9 @@
 8. Cloud Computing (GCP, Azure)
 9. REST APIs
 10. gRPC
-11. (...) Check my Linkedin profile: [Linkedin](www.linkedin.com/in/martimmourao)
+
+
+Check my Linkedin profile: linkedin.com/in/martimmourao  
 
 <div>
   <img src="https://streak-stats.demolab.com?user=mdmourao&theme=dark" alt="GitHub Streak" />
