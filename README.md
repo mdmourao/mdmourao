@@ -22,6 +22,8 @@
 
 Check my Linkedin profile: linkedin.com/in/martimmourao  
 
+[Linkedin](https://www.linkedin.com/in/martimmourao/)
+
 <div>
   <img src="https://streak-stats.demolab.com?user=mdmourao&theme=dark" alt="GitHub Streak" />
 </div>
