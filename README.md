@@ -20,8 +20,7 @@
 10. gRPC
 
 
-Check my Linkedin profile: linkedin.com/in/martimmourao  
-
+Check my Linkedin profile  
 [Linkedin](https://www.linkedin.com/in/martimmourao/)
 
 <div>
