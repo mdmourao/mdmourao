@@ -2,9 +2,11 @@
 
 👷 Latest Projects: 
 
-1. consignar.pt
-2. consignar.pt Infrastructure with Terraform
-3. Discord Bot to Scrape Lunch Menu (used GCP Infra)
+1. aiterminal.chat
+2. classping.org
+3. consignar.pt
+4. consignar.pt Infrastructure with Terraform
+5. Discord Bot to Scrape Lunch Menu (used GCP Infra)
 
 ## Skills 👨‍💻
 
