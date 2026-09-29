@@ -1,4 +1,4 @@
-![Steve Jobs](./image.png)
+![Steve Jobs](https://bucket.mdmourao.com/apple.png)
 
 The ease of use!
 
